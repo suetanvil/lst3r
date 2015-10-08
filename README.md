@@ -14,8 +14,6 @@ There is also a manual included with the source tree.
 
 ## Changes
 
-More specifically:
-
 1. The source code has been broken into modules with public interfaces
 and hidden private parts.  (I.e. for each source file `foo.c`, there
 is a header `foo.h` which declares its public interface; anything
