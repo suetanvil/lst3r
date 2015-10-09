@@ -104,7 +104,7 @@ be sufficient to build it as a Windows console app.
 
 5. Probably lots of other things.
 
-This is not a particularly *useful* Smalltalk implementation (if you
+This is not a particularly *useful* Smalltalk implementation--if you
 want one of those, try [Squeak](http://squeak.org/),
 [Pharo](http://pharo.org/) or (if you can deal with proprietary
 software) [Cincom Smalltalk](http://www.cincomsmalltalk.com/).
